@@ -1,16 +1,21 @@
-### Hi there 👋
+Goutam Bhat
+Experienced Data Scientist | Dublin, Ireland
 
-<!--
-**GoutamSomsagara/GoutamSomsagara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Professional Summary
+Experienced data scientist with a successful 5-year career, demonstrating expertise in delivering impactful, data-driven solutions across Retail, Financial Services, Healthcare, Telecommunication, and Aviation domains. Proficient in cross-functional collaboration and effective communication with leadership at all levels.
 
-Here are some ideas to get you started:
+🛠️ Skills
+Languages: Python (NumPy, Pandas, Scikit-learn, SciPy, Keras, TensorFlow, Sentence transformers, PySpark), SQL
+Data Science: Statistics, Hypothesis testing, Regression, Classification, Clustering, NLP, Deep Learning, Time series forecasting
+Tools: Cloud (AWS,Azure), Power BI, Alteryx, Git, JIRA, MLOps, Databases (Teradata, MySQL, Redshift)
+Management: Project and People Management, Critical thinking, Functional design
+Communication: Storytelling, Reporting, Consulting, Attention to detail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education
+University of Limerick, Ireland (Aug 2022 - Oct 2023)
+Master of Science in Business Analytics
+
+CMR Institute of Technology, Bangalore, India (Jul 2013 - Jun 2017)
+Bachelor of Engineering in Telecommunication
+
+
